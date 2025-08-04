@@ -1,0 +1,5 @@
+streamlit
+autogen
+openai
+PyPDF2
+python-docx
